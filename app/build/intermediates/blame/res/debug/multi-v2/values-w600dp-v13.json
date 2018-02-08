@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Ngampus\\Semester 6\\PAM\\Praktikum 8\\SimpleCalcTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Triandi Shafa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\61a009fb6383191c48df1855b3a0c8a2\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "232,296",
+                        "endColumns": "63,54",
+                        "endOffsets": "291,346"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Triandi Shafa\\Downloads\\android-fundamentals-master\\SimpleCalcTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Triandi Shafa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\084f7114b309550750906006d8150e28\\res\\values-w600dp\\values-w600dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "232,296",
+                        "endColumns": "63,54",
+                        "endOffsets": "291,346"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}
